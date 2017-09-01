@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\asalc\\Desktop\\Github-Projects\\first-c#\\first-c#.csproj",
-      "projectName": "first-c#",
-      "projectPath": "C:\\Users\\asalc\\Desktop\\Github-Projects\\first-c#\\first-c#.csproj",
+      "projectUniqueName": "C:\\Users\\asalc\\Desktop\\Github-Projects\\c#-intro\\forIteration\\forIteration.csproj",
+      "projectName": "forIteration",
+      "projectPath": "C:\\Users\\asalc\\Desktop\\Github-Projects\\c#-intro\\forIteration\\forIteration.csproj",
       "packagesPath": "C:\\Users\\asalc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\asalc\\Desktop\\Github-Projects\\first-c#\\obj\\",
+      "outputPath": "C:\\Users\\asalc\\Desktop\\Github-Projects\\c#-intro\\forIteration\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

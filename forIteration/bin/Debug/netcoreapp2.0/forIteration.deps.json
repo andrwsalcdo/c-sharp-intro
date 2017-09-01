@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v2.0": {
-      "first-c#/1.0.0": {
+      "forIteration/1.0.0": {
         "runtime": {
-          "first-c#.dll": {}
+          "forIteration.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "first-c#/1.0.0": {
+    "forIteration/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
