@@ -1,0 +1,10 @@
+C:\Users\asalc\Desktop\Github-Projects\first-c#\bin\Debug\netcoreapp2.0\first-c#.deps.json
+C:\Users\asalc\Desktop\Github-Projects\first-c#\bin\Debug\netcoreapp2.0\first-c#.runtimeconfig.json
+C:\Users\asalc\Desktop\Github-Projects\first-c#\bin\Debug\netcoreapp2.0\first-c#.runtimeconfig.dev.json
+C:\Users\asalc\Desktop\Github-Projects\first-c#\bin\Debug\netcoreapp2.0\first-c#.dll
+C:\Users\asalc\Desktop\Github-Projects\first-c#\bin\Debug\netcoreapp2.0\first-c#.pdb
+C:\Users\asalc\Desktop\Github-Projects\first-c#\obj\Debug\netcoreapp2.0\first-c#.csproj.CoreCompileInputs.cache
+C:\Users\asalc\Desktop\Github-Projects\first-c#\obj\Debug\netcoreapp2.0\first-c#.AssemblyInfoInputs.cache
+C:\Users\asalc\Desktop\Github-Projects\first-c#\obj\Debug\netcoreapp2.0\first-c#.AssemblyInfo.cs
+C:\Users\asalc\Desktop\Github-Projects\first-c#\obj\Debug\netcoreapp2.0\first-c#.dll
+C:\Users\asalc\Desktop\Github-Projects\first-c#\obj\Debug\netcoreapp2.0\first-c#.pdb
