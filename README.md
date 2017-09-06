@@ -44,5 +44,9 @@ For the following snippets:  `Code` --> Result
 
 StringBuilder class provides a more memory friendly way to work with strings. 
 
-
+#### Static 
 Static and Instance members of a Class. They are oil & water. Can't mix the two. 
+
+#### var in C# 
+var keyword let's the compiler figure out what the data type is. 
+not the same var as in other programming languages such as VB or JS. 
