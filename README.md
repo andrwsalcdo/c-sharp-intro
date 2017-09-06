@@ -43,3 +43,6 @@ For the following snippets:  `Code` --> Result
 - `string.Format("Phone Number: {0:(###) ###-####}", 1234567890);` --> (123) 456-7890
 
 StringBuilder class provides a more memory friendly way to work with strings. 
+
+
+Static and Instance members of a Class. They are oil & water. Can't mix the two. 
