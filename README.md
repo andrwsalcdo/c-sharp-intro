@@ -50,3 +50,6 @@ Static and Instance members of a Class. They are oil & water. Can't mix the two.
 #### var in C# 
 var keyword let's the compiler figure out what the data type is. 
 not the same var as in other programming languages such as VB or JS. 
+
+#### Enums
+Primarily use to constrain the number of values a given property or variable can be set to. example: a list of todos. And you want: done, in progress, deleted, on hold, etc. 
